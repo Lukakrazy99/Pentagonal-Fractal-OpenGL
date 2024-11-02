@@ -1,4 +1,5 @@
-# Project Title
+# Pentagonal Fractal OpenGL
+
 
 ## Objectives  
 The main objective of this assignment was to develop a 2D graphical application based on a modern graphics system. To achieve this, the use of the modern OpenGL Application Programming Interface (API) was suggested, along with libraries such as the OpenGL Extension Wrangler Library (GLEW), Graphics Library Framework (GLFW), and OpenGL Mathematics (GLM).
